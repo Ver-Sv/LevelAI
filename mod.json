@@ -1,0 +1,12 @@
+{
+    "geode": "5.7.1",
+    "id": "kanka.holy_level_factory",
+    "version": "v1.0.0",
+    "name": "The Holy Factory Engine",
+    "developer": "Sen",
+    "description": "25K Layout ve 100K Deco limitli, 15 farkli muzik fazina sahip devasa seviye jeneratoru!",
+    "dependencies": [],
+    "resources": {
+        "sprites": []
+    }
+}
